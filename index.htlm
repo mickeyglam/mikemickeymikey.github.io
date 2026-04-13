@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Alquiler de barcos</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="font-family: Arial; text-align: center; padding: 40px;">
+
+  <h1>Alquiler de Barcos</h1>
+  <p>Disfruta del mar con nosotros</p>
+
+  <img src="https://via.placeholder.com/400" style="width:100%; max-width:400px;">
+
+  <br><br>
+
+  <a href="https://TU-LINK-NAUTIC-MANAGER.com">
+    <button style="padding:15px 25px; font-size:18px;">
+      Reservar ahora
+    </button>
+  </a>
+
+</body>
+</html>
